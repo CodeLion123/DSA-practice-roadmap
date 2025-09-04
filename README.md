@@ -20,7 +20,3 @@ This repository provides a structured roadmap for practicing Data Structures and
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for new problems, solutions, or improvements.
-
-## License
-
-This project is licensed under the MIT License.
